@@ -3,20 +3,20 @@
 
 
 
-    <string name="automatic_data">YOGA</string>
+    <string name="automatic_data">SMART EDUCATION</string>
     <string name="permission_title">Grant Access</string>
     <string name="permission_detail">Give Music Player access to files</string>
-    <string name="choose_the_song">GYMING AT HOME</string>
-    <string name="edit_data">HEALTH TIPS</string>
-    <string name="result_awesome">PEDOMETER</string>
-    <string name="continue_and_learn">Yoga is a bridge that helps you connect with your soul, mind, and body. It has given tremendous benefits to every person who has practiced it regularly. From mental health to physical health may have been benefited.</string>
-    <string name="continue_and_update">There\'s something about being in a gym, sweating along with everyone else, that gives you kind of a boost.</string>
-    <string name="continue_and_result">The beauty of yoga is that it can be practiced by just about anybody irrespective of things such as age, fitness, health condition, etc. Obviously, there are a few things to be kept in mind but then which exercise does not have such confines?</string>
+    <string name="choose_the_song">FOR TEACHERS</string>
+    <string name="edit_data">FOR STUDENTS</string>
+    <string name="result_awesome">FOR PARENTS</string>
+    <string name="continue_and_learn">Smart learning aims at providing holistic learning to students using modern technology to fully prepare them for a fast-changing world where adaptability is crucial.</string>
+    <string name="continue_and_update">Teachers are dedicated professionals who have a lasting impact on students. Becoming a teacher will allow you to leverage your strengths and passion as a leader in the education field.</string>
+    <string name="continue_and_result">Student life is the happiest and the most crucial period in the life of a person. It is not just about attending classes in a course and working hard to attain an appropriate level of mastery of a subject under the guidance of an instructor.</string>
     <string name="thank_you">Thank you, have fun</string>
-    <string name="gm_finds_photos">As your small changes become habit, you can continue to add more healthy choices to your diet.</string>
-    <string name="swap_to_the_tab">Exercise is so much easier when you have lots of options to choose from. If you\'re a cardio machine person, your choices abound: the treadmill, elliptical, stairclimber, stair stepper, stationary bike, rowing machine...it goes on and on. You also have options for lifting weights.</string>
-    <string name="update_easily">Every change you make to improve your diet matters. You don’t have to be perfect and you don’t have to completely eliminate foods you enjoy to have a healthy diet.</string>
-    <string name="after_updating">Daily walks are one of the most important habits you can develop, because they influence many other positive habit changes.</string>
+    <string name="gm_finds_photos">Smart education is more than just advanced learning methods</string>
+    <string name="swap_to_the_tab">Everybody who is incapable of learning has taken to teaching.</string>
+    <string name="update_easily">There are no shortcuts to any place worth going.</string>
+    <string name="after_updating">Children are educated by what the grown-up is and not by his talk.</string>
 
 
 </resources>

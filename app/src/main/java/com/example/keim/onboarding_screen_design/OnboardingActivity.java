@@ -21,7 +21,7 @@ public class OnboardingActivity extends TutorialActivity {
                         .setTitle(getString(R.string.automatic_data))
                         .setContent(getString(R.string.gm_finds_photos))
                         .setBackgroundColor(Color.parseColor("#FF0957"))
-                        .setDrawable(R.drawable.undraw_mindfulness_scgo)
+                        .setDrawable(R.drawable.undraw_book_lover_mkck)
                         .setSummary(getString(R.string.continue_and_learn))
                         .build());
         addFragment(
@@ -29,7 +29,7 @@ public class OnboardingActivity extends TutorialActivity {
                         .setTitle(getString(R.string.choose_the_song))
                         .setContent(getString(R.string.swap_to_the_tab))
                         .setBackgroundColor(Color.parseColor("#00D4BA"))
-                        .setDrawable(R.drawable.undraw_personal_trainer_ote3)
+                        .setDrawable(R.drawable.undraw_professor_8lrt)
                         .setSummary(getString(R.string.continue_and_update))
                         .build());
         addFragment(
@@ -37,7 +37,7 @@ public class OnboardingActivity extends TutorialActivity {
                         .setTitle(getString(R.string.edit_data))
                         .setContent(getString(R.string.update_easily))
                         .setBackgroundColor(Color.parseColor("#1098FE"))
-                        .setDrawable(R.drawable.undraw_healthy_options_sdo3)
+                        .setDrawable(R.drawable.undraw_exams_g4ow)
                         .setSummary(getString(R.string.continue_and_result))
                         .build());
         addFragment(
@@ -45,7 +45,7 @@ public class OnboardingActivity extends TutorialActivity {
                         .setTitle(getString(R.string.result_awesome))
                         .setContent(getString(R.string.after_updating))
                         .setBackgroundColor(Color.parseColor("#CA70F3"))
-                        .setDrawable(R.drawable.undraw_working_out_6psf)
+                        .setDrawable(R.drawable.undraw_fatherhood_7i19)
                         .setSummary(getString(R.string.thank_you))
                         .build());
     }
